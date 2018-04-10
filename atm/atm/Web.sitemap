@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+        <siteMapNode url="welcome.aspx" title="Home"  description="Welcome">
+          <siteMapNode url="changepin2.aspx" title="Change Pin"  description="Change pin" />
+          <siteMapNode url="chckbal.aspx" title="Check balance"  description="Check balance" />
+          <siteMapNode url="deposit.aspx" title="Deposit"  description="Deposit" />
+          <siteMapNode url="reqbankstat.aspx" title="Request Bank Stat"  description="Request Bank Statement" />
+          <siteMapNode url="reqcheckbook.aspx" title="Request Check Book"  description="Request Check Book" />
+          <siteMapNode url="transfer.aspx" title="Transfer"  description="Transfer money" />
+          <siteMapNode url="withdraw.aspx" title="Withdraw"  description="Withdraw money" />
+          <siteMapNode url="updatecust.aspx" title="Update Details"  description="Update customer details" />
+     </siteMapNode>
+  </siteMap>

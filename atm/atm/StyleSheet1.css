@@ -1,0 +1,18 @@
+﻿.loginwatermark1
+{
+    color:Gray;
+}
+body{
+background-image:url("photos/Elegant_Background-4.jpg");
+}
+
+
+
+A:visited{
+
+color:Orange;
+}
+A:active{
+color:Green;
+
+}

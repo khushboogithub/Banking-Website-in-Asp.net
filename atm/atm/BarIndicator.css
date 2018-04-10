@@ -1,0 +1,33 @@
+﻿.VeryPoor
+{
+background: Red;
+color:White;
+}
+.Weak
+{
+background:orange;
+color:White;
+}
+.Average
+{
+background: Gray ;
+color:White;
+}
+.Strong
+{
+background: blue;
+color:White;
+}
+.Excellent
+{
+background: Green;
+color:White;
+}
+.BarBorderStyle
+{
+border-style:solid ;
+border-color:Gray;
+border-width: 1px;
+width: 150px;
+padding: 2px;
+}
